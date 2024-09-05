@@ -50,4 +50,4 @@
 
 <img src="https://raw.githubusercontent.com/ismail4567/ismail4567/output/snake.svg" alt="Snake animation" />
 
-###****
+
